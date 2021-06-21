@@ -1,5 +1,7 @@
 ## DATA VALIDATION CONCEPT WITH VANILLA JAVASCRIPT
 
+A live demo of this can be found on [CodePen](https://codepen.io/dragostemelie/pen/KKWxwJo).
+
 The structure of **index.html** is fairly basic. Inside the body we have a `<main>` tag with this simple structure:
 
 ```html
